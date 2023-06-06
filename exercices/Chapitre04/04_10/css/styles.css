@@ -118,6 +118,12 @@ body {
 
 #content {
     padding: 20px;
+    display: grid;
+    grid-template-columns: 1fr minmax(300px, 1024px) 1fr;
+}
+
+#content > * {
+    grid-column: 2 / 3;
 }
 
 #mainContent.cards {
