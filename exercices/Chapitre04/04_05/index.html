@@ -9,7 +9,20 @@
     <link rel="stylesheet" href="https://necolas.github.io/normalize.css/8.0.1/normalize.css">
     <link rel="stylesheet" href="css/styles.css">
     <style>
-        
+        .cards {
+            display: grid;
+            gap: 20px;
+        }
+        @media screen and (min-width: 576px){
+            .cards {
+                grid-template-columns: repeat(2, 2fr);
+            }    
+        }
+        @media screen and (min-width: 768px){
+            .cards {
+                grid-template-columns: repeat(3, 2fr);
+            }    
+        }
     </style>
 </head>
 
