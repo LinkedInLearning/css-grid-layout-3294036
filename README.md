@@ -7,9 +7,7 @@ Ce dossier Repository est lié au cours `CSS : Apprendre le Grid Layout`. Le cou
 
 Ce cours est intégré à GitHub Codespaces, un environnement de développement instantané « dans le nuage » qui offre toutes les fonctionnalités de votre IDE préféré sans nécessiter de configuration sur une machine locale. Avec Codespaces, vous pouvez vous exercer à partir de n'importe quelle machine, à tout moment, tout en utilisant un outil que vous êtes susceptible de rencontrer sur votre lieu de travail. Consultez la vidéo "Utilisation de Codespaces GitHub dans le cadre de ce cours" pour savoir comment démarrer.    
 
-
-
-DESCRIPTION DE LA FORMATION
+Dans cette formation destinée aux concepteurs de pages web, vous aborderez la notion de responsive, et plus particulièrement avec le CSS grid layout. Après avoir abordé les notions de base de CSS grid et les outils nécessaires, vous passerez sans plus tarder au concret avec la conception de grilles, le placement des éléments, l'alignement de ces derniers dans la grille puis, vous aborderez des cas pratiques comme l'en-tête et le pied de page, l'utilisation ou pas de media queries, l'harmonisation et la superposition d'éléments et même la création d'une galerie photo responsive.
 
 ## Instructions
 
