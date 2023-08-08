@@ -7,7 +7,7 @@ Ce dossier Repository est lié au cours `CSS : Apprendre le Grid Layout`. Le cou
 
 Ce cours est intégré à GitHub Codespaces, un environnement de développement instantané « dans le nuage » qui offre toutes les fonctionnalités de votre IDE préféré sans nécessiter de configuration sur une machine locale. Avec Codespaces, vous pouvez vous exercer à partir de n'importe quelle machine, à tout moment, tout en utilisant un outil que vous êtes susceptible de rencontrer sur votre lieu de travail. Consultez la vidéo "Utilisation de Codespaces GitHub dans le cadre de ce cours" pour savoir comment démarrer.    
 
-Dans cette formation destiné aux développeurs et développeuses web, vous apprendrez la mise en page responsive à l'aide des CSS Grids. Après une introduction aux concepts de base des CSS Grids, vous passerez rapidement aux techniques de conception de grilles, au placement des éléments dans ces grilles, à l'alignement des éléments dans les cellules de la grille, puis à des cas pratiques tels que la mise en page d'en-têtes et de pieds de page, la mise en place d'une grille réactive sans Media Queries, l'utilisation des CSS Grids pour superposer des éléments et même la création d'une galerie photos réactive.
+Dans cete formation destiné aux développeurs et développeuses web, vous apprendrez la mise en page responsive à l'aide des CSS Grids. Après une introduction aux concepts de base des CSS Grids, vous passerez rapidement aux techniques de conception de grilles, au placement des éléments dans ces grilles, à l'alignement des éléments dans les cellules de la grille, puis à des cas pratiques tels que la mise en page d'en-têtes et de pieds de page, la mise en place d'une grille réactive sans Media Queries, l'utilisation des CSS Grids pour superposer des éléments et même la création d'une galerie photos réactive.
 
 ## Instructions
 
@@ -15,7 +15,8 @@ Les exercices relatifs à cette formation se trouvent dans le dossier `exercices
  
 ## Installation
 
-Aucune installation n'est nécessaire pour suivre cette formation via CodeSpaces. Si vous préférez ne pas utiliser CodeSpaces, vous pouvez également télécharger les fichiers d'exercices localement et les utiliser avec n'importe quel éditeur de code. Pour ce faire, il vous suffit 
+Aucune installation n'est nécessaire pour suivre cette formation via CodeSpaces. 
+Si vous préférez ne pas utiliser CodeSpaces, vous pouvez également télécharger les fichiers d'exercices localement et les utiliser avec n'importe quel éditeur de code. Pour ce faire, il vous suffit 
 1. De cloner ce dépôt sur votre machine locale. 
 2. D'ouvrir le dossier `exercices` dans votre éditeur préféré. 
 
