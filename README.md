@@ -11,7 +11,7 @@ Dans cete formation destiné aux développeurs et développeuses web, vous appre
 
 ## Instructions
 
-Les exercices relatifs à cette formation se trouvent dans le dossier `exercices` de ce dépôt. Dans le dossier `exercises`, les fichiers ont été divisés en chapitres, puis en vidéos. Par exemple, le dossier `Chapitre01\01_04` contient les fichiers d'exercices utilisés dans la quatrième vidéo du premier chapitre. Les fichiers et les dossiers inclus dans ce dépôt reflètent l'état de départ de chaque vidéo.
+Les exercices relatifs à cette formation se trouvent dans le dossier `exercices` de ce dépôt. Dans le dossier `exercices`, les fichiers ont été divisés en chapitres, puis en vidéos. Par exemple, le dossier `Chapitre01\01_04` contient les fichiers d'exercices utilisés dans la quatrième vidéo du premier chapitre. Les fichiers et les dossiers inclus dans ce dépôt reflètent l'état de départ de chaque vidéo.
  
 ## Installation
 
