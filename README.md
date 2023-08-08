@@ -26,8 +26,8 @@ Aucune installation n'est nécessaire pour suivre cette formation via CodeSpaces
  Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-course-url]: https://www.linkedin.com/learning/css-apprendre-le-grid-layout
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQEMhci7BdKOMQ/learning-public-crop_675_1200/0/1691406309191?e=2147483647&v=beta&t=COugccAzFhoQjLl3eYuO7OOBy0CtCuBUFPNvEelGZAo
 [lil-URL-trainer]: https://www.linkedin.com/learning/instructors/damien-bruyndonckx
 
 [1]: # (End of FR-Instruction ###############################################################################################)
